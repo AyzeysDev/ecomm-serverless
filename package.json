@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/AyzeysDev/ecomm-serverless/issues"
   },
-  "homepage": "https://github.com/AyzeysDev/ecomm-serverless#readme"
+  "homepage": "https://github.com/AyzeysDev/ecomm-serverless#readme",
+  "dependencies": {
+    "aws-sdk": "^2.983.0",
+    "uuid": "^8.3.2"
+  }
 }
